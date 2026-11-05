@@ -1,0 +1,11 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales Python
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env
